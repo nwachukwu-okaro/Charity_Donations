@@ -1,14 +1,3 @@
---This project contains SQL queries written to query a charity's database for key insights to help meet fundraising objectives for the following year.
---About Database:The database contains two tables ‘donation data’ and ‘donors data’. When merged together, they contain 1000 records and 15 attributes. 
---The dataset contains information of registered donors to the charity, information such as state, id, first name, last name, emails, gender, job field, donor’s state,
---donations, and donation frequency. Other additional information about the donors are in the ‘donors data’ dataset.
-
---Problem Question
---Which states do we get our Highest  and lowest donations from to determine where and how to target our campaign
--- How do the Genders  contribute to the charity  to help us know how to design our campaign 
---How often do the donors donated
---Which  occupations are  more likely to donate
---Which  group of persons are more likely to default on a pledge to donate.
 
 
 -- 1)To view the content of both datasets individually
